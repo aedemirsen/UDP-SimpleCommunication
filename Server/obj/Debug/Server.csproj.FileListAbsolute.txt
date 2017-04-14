@@ -1,0 +1,18 @@
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\bin\Debug\Server.exe.config
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\bin\Debug\Server.exe
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\bin\Debug\Server.pdb
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\obj\Debug\Server.Form1.resources
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\obj\Debug\Server.exe
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\obj\Debug\Server.pdb
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\UDP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\bin\Debug\Server.exe.config
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\obj\Debug\Server.exe
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\obj\Debug\Server.pdb
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\bin\Debug\Server.exe
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\bin\Debug\Server.pdb
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\obj\Debug\Server.Form1.resources
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\aedemirsen\Desktop\nop\staj\Sources\Proje Dosyaları\UDP-Simple Communication(basit örnek- socket kullanılmadı)\Server\obj\Debug\Server.csproj.GenerateResource.Cache
